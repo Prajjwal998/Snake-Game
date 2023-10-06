@@ -1,5 +1,5 @@
 # Snake-Game
-to run on CMD 
-javac snake.java
+to run on cmd write
+javac snake.java then press enter
 java snake
 enjoy the game ;)
